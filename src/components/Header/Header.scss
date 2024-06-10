@@ -1,0 +1,22 @@
+header {
+    background-color: #f8f9fa;
+    padding: 1rem;
+  
+    nav {
+      display: flex;
+      gap: 1rem;
+  
+      Link {
+        text-decoration: none;
+        color: #007bff;
+  
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+
+
+
+  
